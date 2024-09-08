@@ -38,7 +38,7 @@ body {
     line-height: 1.6;
     margin: 0 auto;
     scroll-behavior: smooth;
-    width: 100vw;
+    max-width: 1300px;
     height: 100vh;
     overflow-x: hidden;
 }
